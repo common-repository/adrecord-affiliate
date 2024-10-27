@@ -1,0 +1,52 @@
+.App {
+  overflow: hidden;
+}
+
+.App-logo {
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  /* background: linear-gradient(to top right, #222, #174500); */
+
+  padding: 20px;
+  text-align: center;
+}
+.App-header h1 {
+  color: white;
+}
+
+.App-grid {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+.App-grid .main-content div {
+  padding: 10px;
+}
+.App-grid .main-content {
+  flex: 1 1 60%;
+  background: white;
+  padding: 10px;
+}
+
+.App-grid .sidebar {
+  flex: 1 1 32%;
+  margin-left: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.App-grid .sidebar div {
+  height: 300px;
+  padding: 10px;
+  background: white;
+}
+.App-grid .sidebar div:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.App .bordered {
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,176 @@
+# Copyright (C) 2019 Adrecord
+# This file is distributed under the same license as the Adrecord Clean Links plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Adrecord Clean Links 0.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/adrecord-"
+"affiliate\n"
+"POT-Creation-Date: 2019-01-24T13:33:13+00:00\n"
+"PO-Revision-Date: 2019-01-28 13:23+0100\n"
+"Last-Translator: Markus Ekegren - Jmgraphic AB <markus@jmgraphic.se>\n"
+"Language-Team: \n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+
+#. Plugin Name of the plugin
+msgid "Adrecord Affiliate"
+msgstr "Adrecord Affiliate"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/adrecord-affiliate/"
+msgstr "https://wordpress.org/plugins/adrecord-affiliate/"
+
+#. Description of the plugin
+msgid ""
+"Adrecords WordPress plugin for affiliates. Easily enable and make use of "
+"clean links and other features right in your WordPress site."
+msgstr ""
+"Adrecords WordPress plugin för affiliates. Aktivera enkelt och utnyttja "
+"clean länkar och andra funktioner direkt på din WordPress-webbplats."
+
+#. Author of the plugin
+msgid "Adrecord"
+msgstr "Adrecord"
+
+#. Author URI of the plugin
+msgid "https://www.adrecord.com"
+msgstr "https://www.adrecord.com"
+
+#: php/App.php:176
+msgid "Loading"
+msgstr "Laddar"
+
+#: php/LanguageDictionary.php:7
+msgid "Welcome to the Adrecord Wordpress plugin"
+msgstr "Välkommen till Adrecords Wordpress plugin"
+
+#: php/LanguageDictionary.php:8
+msgid ""
+"To get started, enter your API-key to connect with your account at Adrecord."
+msgstr ""
+"För att komma igång, ange din API-nyckel för att ansluta till ditt konto på "
+"Adrecord."
+
+#: php/LanguageDictionary.php:9
+msgid "Welcome"
+msgstr "Välkommen"
+
+#: php/LanguageDictionary.php:10
+msgid "API-key:"
+msgstr "API-nyckel:"
+
+#: php/LanguageDictionary.php:11
+msgid "You can find your API-key "
+msgstr "Du hittar din API-nyckel "
+
+#: php/LanguageDictionary.php:12
+msgid "in the Adrecord dashboard advanced section."
+msgstr "i den avancerade sektionen på Adrecord-kontrollpanelen."
+
+#: php/LanguageDictionary.php:13
+msgid "Clean links enabled:"
+msgstr "Clean links aktiverade:"
+
+#: php/LanguageDictionary.php:14
+msgid ""
+"Clean links is a technique for linking to advertisers with \"regular links"
+"\", for example, directly to http://www.example.com instead of https://click."
+"adrecord.com/?p=19&c=TEST. When you have enabled clean links and have "
+"entered a regular link to one of your advertisers in your content, please "
+"try to click one of your links and make sure you can see the clicks counting "
+"in the Adrecord dashboard."
+msgstr ""
+"Clean links är en teknik för att länka till annonsörer med “vanliga länkar”, "
+"till exempel direkt till http://www.example.com istället för https://click."
+"adrecord.com/?p=19&c=TEST. När du har aktiverat clean links och har skrivit "
+"in en vanlig länk till en av dina annonsörer i ditt innehåll, försök att "
+"klicka på en av dina länkar där du använder clean links och se till att du "
+"kan se att klickarna räknas i Adrecords kontrollpanel."
+
+#: php/LanguageDictionary.php:15
+msgid "Latest programs"
+msgstr "Senaste programmen"
+
+#: php/LanguageDictionary.php:16
+msgid "About Adrecord"
+msgstr "Om Adrecord"
+
+#: php/LanguageDictionary.php:17
+msgid ""
+"Adrecord is an affiliate network with long experience and broad \n"
+"    knowledge that helps with affiliate marketing in a friendly and\n"
+"    transparent way."
+msgstr ""
+"Adrecord är ett affiliate-nätverk med lång erfarenhet och bred kunskap som "
+"hjälper till med affiliate marknadsföring på ett vänligt och transparent "
+"sätt."
+
+#: php/LanguageDictionary.php:20
+msgid ""
+"With our help you can set up and administer an affiliate program\n"
+"    according to your terms, we will take full responsibility for\n"
+"    the technology, finance and support, and create relationships\n"
+"    with talented affiliates."
+msgstr ""
+"Med vår hjälp kan du konfigurera och administrera ett associerat program. "
+"Enligt dina villkor tar vi det fulla ansvaret för\n"
+"teknik, finans och support, och skapa relationer med begåvade affiliates."
+
+#: php/LanguageDictionary.php:24
+msgid "Get started with Adrecord"
+msgstr "Kom igång med Adrecord"
+
+#: php/LanguageDictionary.php:25
+msgid ""
+"Don't have an affiliate account at Adrecord? No worries, just\n"
+"    sign up for free here and "
+msgstr ""
+"Har du inget affilierat konto hos Adrecord? Inga bekymmer, bara\n"
+"     registrera dig gratis här och "
+
+#: php/LanguageDictionary.php:27
+msgid "create your account here."
+msgstr "skapa ditt konto här."
+
+#: php/LanguageDictionary.php:28
+msgid ""
+"For more information on how to get started, please have a look\n"
+"    at our "
+msgstr "För mer information om hur du kommer igång, ta en titt på vår "
+
+#: php/LanguageDictionary.php:30
+msgid "quick-start guide."
+msgstr "snabbstartsguide."
+
+#~ msgid "Adrecords Wordpress plugin for affiliates."
+#~ msgstr "Adrecords Wordpress plugin för affiliates."
+
+#~ msgid "To get started, enter your api-key"
+#~ msgstr "Börja med att mata in din API-nyckel"
+
+#~ msgid "Api Key:"
+#~ msgstr "API-nyckel:"
+
+#~ msgid "here"
+#~ msgstr "här"
+
+#~ msgid ""
+#~ "Clean links is a technique for linking to advertisers with \"regular links"
+#~ "\", for example, directly to http://www.example.com instead of https://"
+#~ "click.adrecord.com/?p=19&c=235:"
+#~ msgstr ""
+#~ "Clean links är en teknik för att länka till annonsörer med ”vanliga "
+#~ "länkar”, till exempel direkt till http://www.example.com istället för "
+#~ "https://click.adrecord.com/?p=19&c=235:"
+
+#~ msgid "Adrecord Clean Links"
+#~ msgstr "Adrecord Clean Links"
+
+#~ msgid "Clean affiliate links for adrecord"
+#~ msgstr "Clean:a affiliate länkar for Adrecord"
+
+#~ msgid "No api key"
+#~ msgstr "Ingen API-nyckel"
